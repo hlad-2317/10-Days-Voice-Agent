@@ -1,0 +1,7 @@
+livekit
+python-dotenv
+livekit-plugins-murf
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-deepgram
+livekit-plugins-noise-cancellation
