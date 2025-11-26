@@ -1,0 +1,3 @@
+{"case_id": "FRD-5556", "customer_name": "Aria", "security_identifier": "ID-334Y", "transaction_amount": "60.00", "merchant_name": "Blue Lock Football", "location": "Surat,India", "timestamp": "Nov 27, 2025, 5:00 PM CET", "final_status": "confirmed_fraud", "outcome_note": "Customer denied transaction. Card blocked and dispute raised (mock)."}
+
+{"case_id": "FRD-5556", "customer_name": "Aria", "security_identifier": "ID-334Y", "transaction_amount": "60.00", "merchant_name": "Blue Lock Football", "location": "Surat,India", "timestamp": "Nov 27, 2025, 5:00 PM CET", "final_status": "confirmed_safe", "outcome_note": "Customer confirmed transaction as legitimate."}
